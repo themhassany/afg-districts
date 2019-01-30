@@ -1,0 +1,1816 @@
+[
+    {
+      "id": 1,
+      "zone": "north-east",
+      "title": "badakhshan",
+      "districts": [
+        {
+          "id": 101,
+          "title": "arghanj_khwa"
+        },
+        {
+          "id": 102,
+          "title": "argo"
+        },
+        {
+          "id": 103,
+          "title": "baharak"
+        },
+        {
+          "id": 104,
+          "title": "darayim"
+        },
+        {
+          "id": 105,
+          "title": "fayzabad"
+        },
+        {
+          "id": 106,
+          "title": "ishkashim"
+        },
+        {
+          "id": 107,
+          "title": "jurm"
+        },
+        {
+          "id": 108,
+          "title": "khash"
+        },
+        {
+          "id": 109,
+          "title": "khwahan"
+        },
+        {
+          "id": 111,
+          "title": "kishim"
+        },
+        {
+          "id": 112,
+          "title": "kohistan"
+        },
+        {
+          "id": 113,
+          "title": "kuf_ab"
+        },
+        {
+          "id": 114,
+          "title": "kuran_wa_munjan"
+        },
+        {
+          "id": 117,
+          "title": "ragh"
+        },
+        {
+          "id": 118,
+          "title": "shahri_buzurg"
+        },
+        {
+          "id": 119,
+          "title": "shekay"
+        },
+        {
+          "id": 121,
+          "title": "shighnan"
+        },
+        {
+          "id": 122,
+          "title": "shuhada"
+        },
+        {
+          "id": 123,
+          "title": "tagab"
+        },
+        {
+          "id": 124,
+          "title": "tishkan"
+        },
+        {
+          "id": 125,
+          "title": "wakhan"
+        },
+        {
+          "id": 126,
+          "title": "wurduj"
+        },
+        {
+          "id": 127,
+          "title": "yaftali_sufla"
+        },
+        {
+          "id": 128,
+          "title": "yamgan"
+        },
+        {
+          "id": 129,
+          "title": "yawan"
+        },
+        {
+          "id": 130,
+          "title": "zebak"
+        },
+        {
+          "id": 131,
+          "title": "darwaz"
+        },
+        {
+          "id": 132,
+          "title": "darwaz_e_bala"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "zone": "north-east",
+      "title": "baghlan",
+      "districts": [
+        {
+          "id": 201,
+          "title": "andarab"
+        },
+        {
+          "id": 203,
+          "title": "baghlani_jadid"
+        },
+        {
+          "id": 204,
+          "title": "burka"
+        },
+        {
+          "id": 205,
+          "title": "dahana_i_ghuri"
+        },
+        {
+          "id": 206,
+          "title": "dih_salah"
+        },
+        {
+          "id": 207,
+          "title": "dushi"
+        },
+        {
+          "id": 208,
+          "title": "farang_wa_gharu"
+        },
+        {
+          "id": 209,
+          "title": "guzargahi_nur"
+        },
+        {
+          "id": 211,
+          "title": "khinjan"
+        },
+        {
+          "id": 212,
+          "title": "khost_wa_fereng"
+        },
+        {
+          "id": 213,
+          "title": "khwaja_hijran"
+        },
+        {
+          "id": 214,
+          "title": "nahrin"
+        },
+        {
+          "id": 215,
+          "title": "puli_hisar"
+        },
+        {
+          "id": 216,
+          "title": "puli_khumri"
+        },
+        {
+          "id": 217,
+          "title": "tala_wa_barfak"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "zone": "north-east",
+      "title": "kunduz",
+      "districts": [
+        {
+          "id": 301,
+          "title": "ali_abad"
+        },
+        {
+          "id": 303,
+          "title": "chahar_dara"
+        },
+        {
+          "id": 304,
+          "title": "imam_sahib"
+        },
+        {
+          "id": 305,
+          "title": "khan_abad"
+        },
+        {
+          "id": 306,
+          "title": "ku_kunduz"
+        },
+        {
+          "id": 307,
+          "title": "qalay_i_zal"
+        },
+        {
+          "id": 308,
+          "title": "dasht_e_archi"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "zone": "north-east",
+      "title": "takhar",
+      "districts": [
+        {
+          "id": 401,
+          "title": "tk_baharak"
+        },
+        {
+          "id": 402,
+          "title": "bangi"
+        },
+        {
+          "id": 403,
+          "title": "chah_ab"
+        },
+        {
+          "id": 404,
+          "title": "chal"
+        },
+        {
+          "id": 405,
+          "title": "darqad"
+        },
+        {
+          "id": 406,
+          "title": "dashti_qala"
+        },
+        {
+          "id": 407,
+          "title": "farkhar"
+        },
+        {
+          "id": 408,
+          "title": "hazar_sumuch"
+        },
+        {
+          "id": 409,
+          "title": "ishkamish"
+        },
+        {
+          "id": 411,
+          "title": "kalafgan"
+        },
+        {
+          "id": 412,
+          "title": "khwaja_baha_wuddin"
+        },
+        {
+          "id": 413,
+          "title": "khwaja_ghar"
+        },
+        {
+          "id": 414,
+          "title": "namak_ab"
+        },
+        {
+          "id": 415,
+          "title": "rustaq"
+        },
+        {
+          "id": 416,
+          "title": "taluqan"
+        },
+        {
+          "id": 417,
+          "title": "warsaj"
+        },
+        {
+          "id": 418,
+          "title": "yangi_qala"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "zone": "north-west",
+      "title": "balkh",
+      "districts": [
+        {
+          "id": 501,
+          "title": "bk_balkh"
+        },
+        {
+          "id": 503,
+          "title": "chahar_kint"
+        },
+        {
+          "id": 504,
+          "title": "chimtal"
+        },
+        {
+          "id": 505,
+          "title": "dawlatabad"
+        },
+        {
+          "id": 506,
+          "title": "dihdadi"
+        },
+        {
+          "id": 507,
+          "title": "kaldar"
+        },
+        {
+          "id": 508,
+          "title": "khulmi"
+        },
+        {
+          "id": 509,
+          "title": "kishindih"
+        },
+        {
+          "id": 511,
+          "title": "marmul"
+        },
+        {
+          "id": 512,
+          "title": "mazar_e_sharif"
+        },
+        {
+          "id": 513,
+          "title": "nahri_shahi"
+        },
+        {
+          "id": 514,
+          "title": "sholgara"
+        },
+        {
+          "id": 515,
+          "title": "shortepa"
+        },
+        {
+          "id": 516,
+          "title": "zari"
+        },
+        {
+          "id": 517,
+          "title": "shahrak_e_hayratan"
+        },
+        {
+          "id": 518,
+          "title": "chahar_bolak"
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "zone": "north-west",
+      "title": "faryab",
+      "districts": [
+        {
+          "id": 601,
+          "title": "almar"
+        },
+        {
+          "id": 602,
+          "title": "andkhoy"
+        },
+        {
+          "id": 603,
+          "title": "bilchiragh"
+        },
+        {
+          "id": 604,
+          "title": "dawlat_abad"
+        },
+        {
+          "id": 605,
+          "title": "gurziwan"
+        },
+        {
+          "id": 606,
+          "title": "khani_chahar_bagh"
+        },
+        {
+          "id": 607,
+          "title": "khwaja_sabz_posh"
+        },
+        {
+          "id": 608,
+          "title": "fr_kohistan"
+        },
+        {
+          "id": 609,
+          "title": "maymana"
+        },
+        {
+          "id": 611,
+          "title": "pashtun_kot"
+        },
+        {
+          "id": 612,
+          "title": "qaramqol"
+        },
+        {
+          "id": 613,
+          "title": "qaysar"
+        },
+        {
+          "id": 614,
+          "title": "qurghan"
+        },
+        {
+          "id": 615,
+          "title": "shirin_tagab"
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "zone": "north-west",
+      "title": "jawzjan",
+      "districts": [
+        {
+          "id": 701,
+          "title": "aqcha"
+        },
+        {
+          "id": 702,
+          "title": "darzab"
+        },
+        {
+          "id": 703,
+          "title": "jw_fayzabad"
+        },
+        {
+          "id": 704,
+          "title": "khamyab"
+        },
+        {
+          "id": 705,
+          "title": "khaniqa"
+        },
+        {
+          "id": 706,
+          "title": "khwaja_du_koh"
+        },
+        {
+          "id": 707,
+          "title": "mardyan"
+        },
+        {
+          "id": 708,
+          "title": "mingajik"
+        },
+        {
+          "id": 709,
+          "title": "qarqin"
+        },
+        {
+          "id": 710,
+          "title": "qush_tepa"
+        },
+        {
+          "id": 711,
+          "title": "shibirghan"
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "zone": "north-west",
+      "title": "samangan",
+      "districts": [
+        {
+          "id": 801,
+          "title": "aybak"
+        },
+        {
+          "id": 802,
+          "title": "dara_i_sufi_balla"
+        },
+        {
+          "id": 803,
+          "title": "dara_i_sufi_payan"
+        },
+        {
+          "id": 804,
+          "title": "feroz_nakhchir"
+        },
+        {
+          "id": 805,
+          "title": "hazrati_sultan"
+        },
+        {
+          "id": 806,
+          "title": "khuram_wa_sarbagh"
+        },
+        {
+          "id": 807,
+          "title": "ruyi_du_ab"
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "zone": "north-west",
+      "title": "sar_e_pol",
+      "districts": [
+        {
+          "id": 901,
+          "title": "balkhab"
+        },
+        {
+          "id": 902,
+          "title": "gosfandi"
+        },
+        {
+          "id": 903,
+          "title": "kohistanat"
+        },
+        {
+          "id": 904,
+          "title": "sangcharak"
+        },
+        {
+          "id": 905,
+          "title": "sar_e_pul"
+        },
+        {
+          "id": 906,
+          "title": "sayyad"
+        },
+        {
+          "id": 907,
+          "title": "sozma_qala"
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "zone": "central",
+      "title": "kabul",
+      "districts": [
+        {
+          "id": 1001,
+          "title": "bagrami"
+        },
+        {
+          "id": 1002,
+          "title": "chahar_asyab"
+        },
+        {
+          "id": 1003,
+          "title": "deh_sabz"
+        },
+        {
+          "id": 1004,
+          "title": "farza"
+        },
+        {
+          "id": 1005,
+          "title": "guldara"
+        },
+        {
+          "id": 1006,
+          "title": "istalif"
+        },
+        {
+          "id": 1007,
+          "title": "kb_kabul"
+        },
+        {
+          "id": 1008,
+          "title": "kalakan"
+        },
+        {
+          "id": 1009,
+          "title": "khaki_jabbar"
+        },
+        {
+          "id": 1011,
+          "title": "mir_bacha_kot"
+        },
+        {
+          "id": 1012,
+          "title": "mussahi"
+        },
+        {
+          "id": 1013,
+          "title": "paghman"
+        },
+        {
+          "id": 1014,
+          "title": "qarabagh"
+        },
+        {
+          "id": 1015,
+          "title": "shakardara"
+        },
+        {
+          "id": 1016,
+          "title": "surobi"
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "zone": "central",
+      "title": "kapisa",
+      "districts": [
+        {
+          "id": 1101,
+          "title": "alasay"
+        },
+        {
+          "id": 1102,
+          "title": "hesa_awal_kohistan"
+        },
+        {
+          "id": 1103,
+          "title": "hesa_duwum_kohistan"
+        },
+        {
+          "id": 1104,
+          "title": "koh_band"
+        },
+        {
+          "id": 1105,
+          "title": "mahmud_raqi"
+        },
+        {
+          "id": 1106,
+          "title": "nijrab"
+        },
+        {
+          "id": 1107,
+          "title": "kp_tagab"
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "zone": "central",
+      "title": "logar",
+      "districts": [
+        {
+          "id": 1201,
+          "title": "azra"
+        },
+        {
+          "id": 1202,
+          "title": "baraki_barak"
+        },
+        {
+          "id": 1203,
+          "title": "charkh"
+        },
+        {
+          "id": 1204,
+          "title": "kharwar"
+        },
+        {
+          "id": 1205,
+          "title": "khoshi"
+        },
+        {
+          "id": 1206,
+          "title": "mohammad_agha"
+        },
+        {
+          "id": 1207,
+          "title": "pul_i_alam"
+        }
+      ]
+    },
+    {
+      "id": 13,
+      "zone": "north-east",
+      "title": "panjshir",
+      "districts": [
+        {
+          "id": 1301,
+          "title": "anaba"
+        },
+        {
+          "id": 1302,
+          "title": "bazarak"
+        },
+        {
+          "id": 1303,
+          "title": "darah"
+        },
+        {
+          "id": 1305,
+          "title": "paryan"
+        },
+        {
+          "id": 1306,
+          "title": "rokha"
+        },
+        {
+          "id": 1307,
+          "title": "shotul"
+        },
+        {
+          "id": 1308,
+          "title": "hisa_i_awal"
+        }
+      ]
+    },
+    {
+      "id": 14,
+      "zone": "central",
+      "title": "parwan",
+      "districts": [
+        {
+          "id": 1401,
+          "title": "bagram"
+        },
+        {
+          "id": 1402,
+          "title": "chaharikar"
+        },
+        {
+          "id": 1404,
+          "title": "jabal_saraj"
+        },
+        {
+          "id": 1405,
+          "title": "kohi_safi"
+        },
+        {
+          "id": 1406,
+          "title": "salang"
+        },
+        {
+          "id": 1407,
+          "title": "sayed_khel"
+        },
+        {
+          "id": 1408,
+          "title": "shekh_ali"
+        },
+        {
+          "id": 1410,
+          "title": "surkhi_parsa"
+        },
+        {
+          "id": 1411,
+          "title": "hisa_e_awale_kohistanat"
+        },
+        {
+          "id": 1412,
+          "title": "syah_gerd"
+        }
+      ]
+    },
+    {
+      "id": 15,
+      "zone": "central",
+      "title": "wardak",
+      "districts": [
+        {
+          "id": 1501,
+          "title": "chaki_wardak"
+        },
+        {
+          "id": 1502,
+          "title": "day_mirdad"
+        },
+        {
+          "id": 1503,
+          "title": "hisa_i_awali_bihsud"
+        },
+        {
+          "id": 1504,
+          "title": "jaghatu"
+        },
+        {
+          "id": 1505,
+          "title": "jalrez"
+        },
+        {
+          "id": 1506,
+          "title": "markazi_bihsud"
+        },
+        {
+          "id": 1507,
+          "title": "maydan_shahr"
+        },
+        {
+          "id": 1508,
+          "title": "nirkh"
+        },
+        {
+          "id": 1509,
+          "title": "saydabad"
+        }
+      ]
+    },
+    {
+      "id": 16,
+      "zone": "north-east",
+      "title": "kunar",
+      "districts": [
+        {
+          "id": 1601,
+          "title": "asadabad"
+        },
+        {
+          "id": 1602,
+          "title": "bar_kunar"
+        },
+        {
+          "id": 1603,
+          "title": "chapa_dara"
+        },
+        {
+          "id": 1604,
+          "title": "chawkay"
+        },
+        {
+          "id": 1605,
+          "title": "dangam"
+        },
+        {
+          "id": 1606,
+          "title": "dara_i_pech"
+        },
+        {
+          "id": 1607,
+          "title": "ghaziabad"
+        },
+        {
+          "id": 1608,
+          "title": "khas_kunar"
+        },
+        {
+          "id": 1609,
+          "title": "marawara"
+        },
+        {
+          "id": 1610,
+          "title": "narang_wa_badil"
+        },
+        {
+          "id": 1611,
+          "title": "nari"
+        },
+        {
+          "id": 1612,
+          "title": "nurgal"
+        },
+        {
+          "id": 1613,
+          "title": "shaygal_wa_shiltan"
+        },
+        {
+          "id": 1614,
+          "title": "sirkanay"
+        },
+        {
+          "id": 1615,
+          "title": "wata_pur"
+        }
+      ]
+    },
+    {
+      "id": 17,
+      "zone": "east",
+      "title": "laghman",
+      "districts": [
+        {
+          "id": 1701,
+          "title": "alingar"
+        },
+        {
+          "id": 1702,
+          "title": "alishing"
+        },
+        {
+          "id": 1704,
+          "title": "dawlat_shah"
+        },
+        {
+          "id": 1705,
+          "title": "mihtarlam"
+        },
+        {
+          "id": 1706,
+          "title": "qarghayi"
+        }
+      ]
+    },
+    {
+      "id": 18,
+      "zone": "east",
+      "title": "nangarhar",
+      "districts": [
+        {
+          "id": 1801,
+          "title": "achin"
+        },
+        {
+          "id": 1802,
+          "title": "bati_kot"
+        },
+        {
+          "id": 1803,
+          "title": "behsud"
+        },
+        {
+          "id": 1804,
+          "title": "chaparhar"
+        },
+        {
+          "id": 1805,
+          "title": "dara_i_nur"
+        },
+        {
+          "id": 1806,
+          "title": "dih_bala"
+        },
+        {
+          "id": 1807,
+          "title": "dur_baba"
+        },
+        {
+          "id": 1808,
+          "title": "goshta"
+        },
+        {
+          "id": 1809,
+          "title": "hisarak"
+        },
+        {
+          "id": 1810,
+          "title": "jalalabad"
+        },
+        {
+          "id": 1811,
+          "title": "kama"
+        },
+        {
+          "id": 1812,
+          "title": "khogyani"
+        },
+        {
+          "id": 1813,
+          "title": "kot"
+        },
+        {
+          "id": 1814,
+          "title": "kuz_kunar"
+        },
+        {
+          "id": 1815,
+          "title": "lal_pur"
+        },
+        {
+          "id": 1816,
+          "title": "muhmand_dara"
+        },
+        {
+          "id": 1817,
+          "title": "nazyan"
+        },
+        {
+          "id": 1818,
+          "title": "pachir_wa_agam"
+        },
+        {
+          "id": 1819,
+          "title": "rodat"
+        },
+        {
+          "id": 1820,
+          "title": "sherzad"
+        },
+        {
+          "id": 1821,
+          "title": "shinwar"
+        },
+        {
+          "id": 1822,
+          "title": "surkh_rod"
+        }
+      ]
+    },
+    {
+      "id": 19,
+      "zone": "north-east",
+      "title": "nuristan",
+      "districts": [
+        {
+          "id": 1901,
+          "title": "bargi_matal"
+        },
+        {
+          "id": 1902,
+          "title": "du_ab"
+        },
+        {
+          "id": 1903,
+          "title": "kamdesh"
+        },
+        {
+          "id": 1904,
+          "title": "mandol"
+        },
+        {
+          "id": 1905,
+          "title": "nurgaram"
+        },
+        {
+          "id": 1906,
+          "title": "parun"
+        },
+        {
+          "id": 1907,
+          "title": "wama"
+        },
+        {
+          "id": 1908,
+          "title": "waygal"
+        }
+      ]
+    },
+    {
+      "id": 20,
+      "zone": "west",
+      "title": "badghis",
+      "districts": [
+        {
+          "id": 2001,
+          "title": "ab_kamari"
+        },
+        {
+          "id": 2002,
+          "title": "ghormach"
+        },
+        {
+          "id": 2003,
+          "title": "jawand"
+        },
+        {
+          "id": 2004,
+          "title": "muqur"
+        },
+        {
+          "id": 2005,
+          "title": "murghab"
+        },
+        {
+          "id": 2006,
+          "title": "qadis"
+        },
+        {
+          "id": 2007,
+          "title": "qala_i_naw"
+        }
+      ]
+    },
+    {
+      "id": 21,
+      "zone": "central",
+      "title": "bamyan",
+      "districts": [
+        {
+          "id": 2101,
+          "title": "bm_bamyan"
+        },
+        {
+          "id": 2102,
+          "title": "kahmard"
+        },
+        {
+          "id": 2103,
+          "title": "panjab"
+        },
+        {
+          "id": 2104,
+          "title": "sayghan"
+        },
+        {
+          "id": 2105,
+          "title": "shibar"
+        },
+        {
+          "id": 2106,
+          "title": "waras"
+        },
+        {
+          "id": 2107,
+          "title": "yakawlang"
+        }
+      ]
+    },
+    {
+      "id": 22,
+      "zone": "west",
+      "title": "farah",
+      "districts": [
+        {
+          "id": 2201,
+          "title": "anar_dara"
+        },
+        {
+          "id": 2202,
+          "title": "bakwa"
+        },
+        {
+          "id": 2203,
+          "title": "bala_buluk"
+        },
+        {
+          "id": 2204,
+          "title": "fr_farah"
+        },
+        {
+          "id": 2205,
+          "title": "gulistan"
+        },
+        {
+          "id": 2206,
+          "title": "khaki_safed"
+        },
+        {
+          "id": 2207,
+          "title": "lash_wa_juwayn"
+        },
+        {
+          "id": 2208,
+          "title": "pur_chaman"
+        },
+        {
+          "id": 2209,
+          "title": "pusht_rod"
+        },
+        {
+          "id": 2211,
+          "title": "qala_i_kah"
+        },
+        {
+          "id": 2212,
+          "title": "shib_koh"
+        }
+      ]
+    },
+    {
+      "id": 23,
+      "zone": "west",
+      "title": "ghor",
+      "districts": [
+        {
+          "id": 2301,
+          "title": "chaghcharan"
+        },
+        {
+          "id": 2302,
+          "title": "charsada"
+        },
+        {
+          "id": 2303,
+          "title": "dawlat_yar"
+        },
+        {
+          "id": 2304,
+          "title": "du_layna"
+        },
+        {
+          "id": 2305,
+          "title": "lal_wa_sarjangal"
+        },
+        {
+          "id": 2306,
+          "title": "pasaband"
+        },
+        {
+          "id": 2307,
+          "title": "saghar"
+        },
+        {
+          "id": 2308,
+          "title": "shahrak"
+        },
+        {
+          "id": 2309,
+          "title": "taywara"
+        },
+        {
+          "id": 2310,
+          "title": "tulak"
+        }
+      ]
+    },
+    {
+      "id": 24,
+      "zone": "west",
+      "title": "herat",
+      "districts": [
+        {
+          "id": 2401,
+          "title": "adraskan"
+        },
+        {
+          "id": 2402,
+          "title": "chishti_sharif"
+        },
+        {
+          "id": 2403,
+          "title": "farsi"
+        },
+        {
+          "id": 2404,
+          "title": "ghoryan"
+        },
+        {
+          "id": 2405,
+          "title": "gulran"
+        },
+        {
+          "id": 2406,
+          "title": "guzara"
+        },
+        {
+          "id": 2407,
+          "title": "hr_herat"
+        },
+        {
+          "id": 2408,
+          "title": "injil"
+        },
+        {
+          "id": 2409,
+          "title": "karukh"
+        },
+        {
+          "id": 2410,
+          "title": "kohsan"
+        },
+        {
+          "id": 2411,
+          "title": "kushk"
+        },
+        {
+          "id": 2412,
+          "title": "kushki_kuhna"
+        },
+        {
+          "id": 2413,
+          "title": "obe"
+        },
+        {
+          "id": 2414,
+          "title": "pashtun_zarghun"
+        },
+        {
+          "id": 2415,
+          "title": "shindand"
+        },
+        {
+          "id": 2416,
+          "title": "zinda_jan"
+        }
+      ]
+    },
+    {
+      "id": 25,
+      "zone": "south-east",
+      "title": "ghazni",
+      "districts": [
+        {
+          "id": 2501,
+          "title": "ab_band"
+        },
+        {
+          "id": 2502,
+          "title": "ajristan"
+        },
+        {
+          "id": 2503,
+          "title": "andar"
+        },
+        {
+          "id": 2504,
+          "title": "dih_yak"
+        },
+        {
+          "id": 2505,
+          "title": "gelan"
+        },
+        {
+          "id": 2507,
+          "title": "giro"
+        },
+        {
+          "id": 2509,
+          "title": "jaghuri"
+        },
+        {
+          "id": 2511,
+          "title": "khwaja_umari"
+        },
+        {
+          "id": 2512,
+          "title": "malistan"
+        },
+        {
+          "id": 2513,
+          "title": "gz_muqur"
+        },
+        {
+          "id": 2514,
+          "title": "nawa"
+        },
+        {
+          "id": 2515,
+          "title": "nawur"
+        },
+        {
+          "id": 2516,
+          "title": "gz_qarabagh"
+        },
+        {
+          "id": 2517,
+          "title": "rashidan"
+        },
+        {
+          "id": 2518,
+          "title": "waghaz"
+        },
+        {
+          "id": 2519,
+          "title": "zana_khan"
+        },
+        {
+          "id": 2520,
+          "title": "wali_muhammadi_shahid"
+        }
+      ]
+    },
+    {
+      "id": 26,
+      "zone": "south-east",
+      "title": "khost",
+      "districts": [
+        {
+          "id": 2601,
+          "title": "bak"
+        },
+        {
+          "id": 2602,
+          "title": "gurbuz"
+        },
+        {
+          "id": 2603,
+          "title": "jaji_maydan"
+        },
+        {
+          "id": 2605,
+          "title": "mandozai"
+        },
+        {
+          "id": 2606,
+          "title": "musa_khel"
+        },
+        {
+          "id": 2607,
+          "title": "nadir_shah_kot"
+        },
+        {
+          "id": 2608,
+          "title": "qalandar"
+        },
+        {
+          "id": 2609,
+          "title": "sabari"
+        },
+        {
+          "id": 2610,
+          "title": "shamal"
+        },
+        {
+          "id": 2611,
+          "title": "spera"
+        },
+        {
+          "id": 2612,
+          "title": "tani"
+        },
+        {
+          "id": 2613,
+          "title": "tere_zayi"
+        },
+        {
+          "id": 2614,
+          "title": "matun_shar"
+        }
+      ]
+    },
+    {
+      "id": 27,
+      "zone": "south-east",
+      "title": "paktya",
+      "districts": [
+        {
+          "id": 2701,
+          "title": "ahmadabad"
+        },
+        {
+          "id": 2702,
+          "title": "chamkani"
+        },
+        {
+          "id": 2703,
+          "title": "dand_wa_patan"
+        },
+        {
+          "id": 2704,
+          "title": "gardez"
+        },
+        {
+          "id": 2707,
+          "title": "lazha_ahmad_khel"
+        },
+        {
+          "id": 2708,
+          "title": "sayed_karam"
+        },
+        {
+          "id": 2709,
+          "title": "shwak"
+        },
+        {
+          "id": 2711,
+          "title": "zurmat"
+        },
+        {
+          "id": 2712,
+          "title": "ali_khel"
+        },
+        {
+          "id": 2713,
+          "title": "zadran"
+        }
+      ]
+    },
+    {
+      "id": 28,
+      "zone": "south-east",
+      "title": "paktika",
+      "districts": [
+        {
+          "id": 2801,
+          "title": "barmal"
+        },
+        {
+          "id": 2802,
+          "title": "dila"
+        },
+        {
+          "id": 2803,
+          "title": "gayan"
+        },
+        {
+          "id": 2804,
+          "title": "gomal"
+        },
+        {
+          "id": 2805,
+          "title": "jani_khel"
+        },
+        {
+          "id": 2807,
+          "title": "nika"
+        },
+        {
+          "id": 2808,
+          "title": "omna"
+        },
+        {
+          "id": 2809,
+          "title": "sar_hawza"
+        },
+        {
+          "id": 2810,
+          "title": "sarobi"
+        },
+        {
+          "id": 2811,
+          "title": "sharan"
+        },
+        {
+          "id": 2812,
+          "title": "terwa"
+        },
+        {
+          "id": 2813,
+          "title": "urgun"
+        },
+        {
+          "id": 2814,
+          "title": "waza_khwa"
+        },
+        {
+          "id": 2815,
+          "title": "wor_mamay"
+        },
+        {
+          "id": 2816,
+          "title": "yahya_khel"
+        },
+        {
+          "id": 2817,
+          "title": "yosuf_khel"
+        },
+        {
+          "id": 2818,
+          "title": "zarghun_shahr"
+        },
+        {
+          "id": 2819,
+          "title": "ziruk"
+        },
+        {
+          "id": 2820,
+          "title": "zulmat"
+        }
+      ]
+    },
+    {
+      "id": 29,
+      "zone": "central",
+      "title": "daykundi",
+      "districts": [
+        {
+          "id": 2901,
+          "title": "gizab"
+        },
+        {
+          "id": 2902,
+          "title": "ishtarlay"
+        },
+        {
+          "id": 2903,
+          "title": "kajran"
+        },
+        {
+          "id": 2904,
+          "title": "khadir"
+        },
+        {
+          "id": 2905,
+          "title": "kiti"
+        },
+        {
+          "id": 2906,
+          "title": "miramor"
+        },
+        {
+          "id": 2907,
+          "title": "nili"
+        },
+        {
+          "id": 2908,
+          "title": "sangtakht"
+        },
+        {
+          "id": 2909,
+          "title": "shahristan"
+        }
+      ]
+    },
+    {
+      "id": 30,
+      "zone": "south-west",
+      "title": "helmand",
+      "districts": [
+        {
+          "id": 3001,
+          "title": "baghran"
+        },
+        {
+          "id": 3002,
+          "title": "dishu"
+        },
+        {
+          "id": 3003,
+          "title": "garmsir"
+        },
+        {
+          "id": 3005,
+          "title": "kajaki"
+        },
+        {
+          "id": 3007,
+          "title": "lashkargah"
+        },
+        {
+          "id": 3009,
+          "title": "musa_qala"
+        },
+        {
+          "id": 3010,
+          "title": "nad_ali"
+        },
+        {
+          "id": 3011,
+          "title": "nawa_i_barakzayi"
+        },
+        {
+          "id": 3012,
+          "title": "nawzad"
+        },
+        {
+          "id": 3013,
+          "title": "sangin"
+        },
+        {
+          "id": 3014,
+          "title": "washir"
+        },
+        {
+          "id": 3015,
+          "title": "nahr_e_saraj"
+        }
+      ]
+    },
+    {
+      "id": 31,
+      "zone": "south-east",
+      "title": "kandahar",
+      "districts": [
+        {
+          "id": 3101,
+          "title": "arghandab"
+        },
+        {
+          "id": 3102,
+          "title": "arghistan"
+        },
+        {
+          "id": 3103,
+          "title": "daman"
+        },
+        {
+          "id": 3104,
+          "title": "ghorak"
+        },
+        {
+          "id": 3105,
+          "title": "kn_kandahar"
+        },
+        {
+          "id": 3106,
+          "title": "khakrez"
+        },
+        {
+          "id": 3107,
+          "title": "maruf"
+        },
+        {
+          "id": 3108,
+          "title": "maywand"
+        },
+        {
+          "id": 3109,
+          "title": "miyan_nasheen"
+        },
+        {
+          "id": 3110,
+          "title": "naish"
+        },
+        {
+          "id": 3111,
+          "title": "panjwaye"
+        },
+        {
+          "id": 3112,
+          "title": "reg"
+        },
+        {
+          "id": 3113,
+          "title": "shah_wali_kot"
+        },
+        {
+          "id": 3114,
+          "title": "shorabak"
+        },
+        {
+          "id": 3115,
+          "title": "spin_boldak"
+        },
+        {
+          "id": 3116,
+          "title": "zhari"
+        }
+      ]
+    },
+    {
+      "id": 32,
+      "zone": "south-west",
+      "title": "nimroz",
+      "districts": [
+        {
+          "id": 3201,
+          "title": "chahar_burjak"
+        },
+        {
+          "id": 3202,
+          "title": "chakhansur"
+        },
+        {
+          "id": 3203,
+          "title": "kang"
+        },
+        {
+          "id": 3204,
+          "title": "khash_rod"
+        },
+        {
+          "id": 3205,
+          "title": "zaranj"
+        }
+      ]
+    },
+    {
+      "id": 33,
+      "zone": "central",
+      "title": "uruzgan",
+      "districts": [
+        {
+          "id": 3301,
+          "title": "chora"
+        },
+        {
+          "id": 3302,
+          "title": "deh_rahwod"
+        },
+        {
+          "id": 3303,
+          "title": "khas_uruzgan"
+        },
+        {
+          "id": 3304,
+          "title": "shahidi_hassas"
+        },
+        {
+          "id": 3305,
+          "title": "tarin_kowt"
+        }
+      ]
+    },
+    {
+      "id": 34,
+      "zone": "south-east",
+      "title": "zabul",
+      "districts": [
+        {
+          "id": 3402,
+          "title": "atghar"
+        },
+        {
+          "id": 3403,
+          "title": "daychopan"
+        },
+        {
+          "id": 3404,
+          "title": "kakar"
+        },
+        {
+          "id": 3405,
+          "title": "mizan"
+        },
+        {
+          "id": 3406,
+          "title": "naw_bahar"
+        },
+        {
+          "id": 3407,
+          "title": "qalat"
+        },
+        {
+          "id": 3408,
+          "title": "shah_joy"
+        },
+        {
+          "id": 3409,
+          "title": "shamulzayi"
+        },
+        {
+          "id": 3410,
+          "title": "shinkay"
+        },
+        {
+          "id": 3411,
+          "title": "tarnak_wa_jaldak"
+        }
+      ]
+    }
+  ]
