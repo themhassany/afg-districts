@@ -1,4 +1,11 @@
 [
+    { "north-east": "North East" },
+    { "north-west": "North West" },
+    { "central": "Central" },
+    { "east": "East" },
+    { "west": "West" },
+    { "south-east": "South East" },
+    { "south-west": "South West" },
     { "1": "Badakhshan" },
     { "2": "Baghlan" },
     { "3": "Kunduz" },
